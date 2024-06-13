@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hello Nguyen Quoc Nhut
+          Welcome to FSA (FPT Software Academy)
         </p>
         <a
           className="App-link"
